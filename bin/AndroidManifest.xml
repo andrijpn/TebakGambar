@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andrijpn.tebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AlasActivity"
+            android:label="@string/title_activity_alas" >
+        </activity>
+        <activity
+            android:name=".DaunActivity"
+            android:label="@string/title_activity_daun" >
+        </activity>
+        <activity
+            android:name=".JamActivity"
+            android:label="@string/title_activity_jam" >
+        </activity>
+        <activity
+            android:name=".KambingActivity"
+            android:label="@string/title_activity_kambing" >
+        </activity>
+        <activity
+            android:name=".KupasActivity"
+            android:label="@string/title_activity_kupas" >
+        </activity>
+        <activity
+            android:name=".MintaActivity"
+            android:label="@string/title_activity_minta" >
+        </activity>
+        <activity
+            android:name=".ObatActivity"
+            android:label="@string/title_activity_obat" >
+        </activity>
+        <activity
+            android:name=".PisauActivity"
+            android:label="@string/title_activity_pisau" >
+        </activity>
+        <activity
+            android:name=".TambahActivity"
+            android:label="@string/title_activity_tambah" >
+        </activity>
+        <activity
+            android:name=".TantanganActivity"
+            android:label="@string/title_activity_tantangan" >
+        </activity>
+        <activity
+            android:name=".TenagaActivity"
+            android:label="@string/title_activity_tenaga" >
+        </activity>
+        <activity
+            android:name=".TuaActivity"
+            android:label="@string/title_activity_tua" >
+        </activity>
+    </application>
+
+</manifest>

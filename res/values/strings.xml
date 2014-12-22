@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TebakGambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alas">AlasActivity</string>
+    <string name="title_activity_daun">DaunActivity</string>
+    <string name="title_activity_jam">JamActivity</string>
+    <string name="title_activity_kambing">KambingActivity</string>
+    <string name="title_activity_kupas">KupasActivity</string>
+    <string name="title_activity_minta">MintaActivity</string>
+    <string name="title_activity_obat">ObatActivity</string>
+    <string name="title_activity_pisau">PisauActivity</string>
+    <string name="title_activity_tambah">TambahActivity</string>
+    <string name="title_activity_tantangan">TantanganActivity</string>
+    <string name="title_activity_tenaga">TenagaActivity</string>
+    <string name="title_activity_tua">TuaActivity</string>
+
+</resources>
